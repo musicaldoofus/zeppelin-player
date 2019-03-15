@@ -1,0 +1,13 @@
+/*Button.css*/
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+.btn {
+	min-width: 4rem;
+	background-color: #fff;
+	border: none;
+	border-radius: 3px;
+	font-family: 'Slabo 27px', serif;
+}
+.btn:hover {
+	cursor: pointer;
+	border-bottom: 2px solid green;
+}
